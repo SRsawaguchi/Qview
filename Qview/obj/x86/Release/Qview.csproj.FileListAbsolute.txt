@@ -1,0 +1,10 @@
+I:\document\Project\AsciiArtProjct\Qview\ver2_3\Qview\obj\x86\Release\Qview.csprojResolveAssemblyReference.cache
+I:\document\Project\AsciiArtProjct\Qview\ver2_3\Qview\obj\x86\Release\Qview.Form1.resources
+I:\document\Project\AsciiArtProjct\Qview\ver2_3\Qview\obj\x86\Release\Qview.Properties.Resources.resources
+I:\document\Project\AsciiArtProjct\Qview\ver2_3\Qview\obj\x86\Release\Qview.csproj.GenerateResource.Cache
+I:\document\Project\AsciiArtProjct\Qview\ver2_3\Qview\bin\Release\Qview.exe
+I:\document\Project\AsciiArtProjct\Qview\ver2_3\Qview\bin\Release\Qview.pdb
+I:\document\Project\AsciiArtProjct\Qview\ver2_3\Qview\obj\x86\Release\Qview.exe
+I:\document\Project\AsciiArtProjct\Qview\ver2_3\Qview\obj\x86\Release\Qview.pdb
+I:\repositories\github\Qview\Qview\obj\x86\Release\Qview.exe
+I:\repositories\github\Qview\Qview\obj\x86\Release\Qview.pdb
